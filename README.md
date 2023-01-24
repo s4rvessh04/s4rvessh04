@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarveshrane2000
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on Web based projects
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning design patterns
+- 💞️ I’m looking to collaborate on web projects
 
 <p align = "center">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=sarveshrane2000' width=400 />
