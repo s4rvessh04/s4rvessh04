@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4rvessh04
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning design patterns
-- 💞️ I’m looking to collaborate on web projects
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on web and design projects.
 
 <p align = "center">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=s4rvessh04' width=400 />
