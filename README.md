@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @s4rvessh04
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on web and design projects.
+- 👋 Hi, I’m Sarvesh
+- 💼 Software Development Engineer I @ Jio Platforms Ltd.
+- 🌱 Passionate about learning and growing every day
+
+Hang around and explore some projects i've worked on - contributions, feedback and features are most welcomed
+.
+.
+🐞 No bugs though
 
 <p align = "center">
     <img src='https://github-readme-streak-stats.herokuapp.com?user=s4rvessh04' width=400 />
