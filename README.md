@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Sarvesh
-- 💼 Software Development Engineer I @ Jio Platforms Ltd.
-- 🌱 Passionate about learning and growing every day
+👋 Hi, I’m Sarvesh
 
-Hang around and explore some projects i've worked on - contributions, feedback and features are most welcomed
-.
-.
-🐞 No bugs though
+💼 Backend Engineer @ Jio Platforms Ltd.
+🛠️ I build things, break things, then learn why they broke
+🌱 Currently exploring distributed systems, performance, and scalable backend architecture
+
+Feel free to explore my projects.
+PRs, ideas, feedback — all welcome.
+
+🐞 No bugs though.
+We have a strict hiring freeze on those.
