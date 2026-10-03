@@ -1,11 +1,30 @@
-👋 Hi, I’m Sarvesh
+<div align="center">
 
-- 💼 Backend Engineer @ Jio Platforms Ltd.
-- 🛠️ I build things, break things, then learn why they broke
-- 🌱 Currently exploring distributed systems, performance, and scalable backend architecture
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=SARVESH%20RANE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Systems%20%7C%20Distributed%20Architecture&descAlignY=58&descSize=15" />
 
-Feel free to explore my projects.
-PRs, ideas, feedback — all welcome.
+</div>
 
-🐞 No bugs though.
-We have a strict hiring freeze on those.
+<div align="center">
+
+### Backend Engineer building systems that survive production.
+
+`Node.js` · `TypeScript` · `Go` · `MySQL` · `Redis` · `Kafka` · `Docker`
+
+</div>
+
+---
+
+## `$ whoami`
+
+```ts
+const sarvesh = {
+  role: "Backend Engineer",
+  company: "Jio Platforms",
+  interests: [
+    "Distributed Systems",
+    "System Design",
+    "Performance Engineering",
+    "Observability"
+  ],
+  currentlyLearning: "How everything breaks at scale",
+};
